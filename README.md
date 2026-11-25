@@ -35,3 +35,8 @@
   - установлен Raspberry Pi Imager. И выполнена запись операционной системы на microSD.
   - сделан первый запуск Raspberry Pi с подключение к монитору.
   - выполнена первичная настройка системы.
+
+На 25.11:
+- подключена платформа для умного зеркала MagicMirror² и основные модули
+<img width="819" height="1280" alt="9ccce9d9-c623-4e13-bc6a-3ad65b5bf71d" src="https://github.com/user-attachments/assets/ec9bdd59-fca8-4485-8a6e-f5b2157e6bfb" />
+
