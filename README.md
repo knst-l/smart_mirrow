@@ -39,7 +39,8 @@
 На 25.11:
 - подключена платформа для умного зеркала MagicMirror² и основные модули
 <img width="819" height="1280" alt="9ccce9d9-c623-4e13-bc6a-3ad65b5bf71d" src="https://github.com/user-attachments/assets/ec9bdd59-fca8-4485-8a6e-f5b2157e6bfb" />
-- решили также дозаказать еще дополнительную подсветку
+-
+-  решили также дозаказать еще дополнительную подсветку
 - ожидаем зеркало для полной сборки вместе с рамой
 <img width="450" height="800" alt="e1168380-facf-4109-9915-6f8652e8fccd" src="https://github.com/user-attachments/assets/ed88799d-d100-4880-b419-232db11b6edf" />
 
